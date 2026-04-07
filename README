@@ -8,6 +8,7 @@ Quick Start
 -----------
 
 * Report a bug: See Documentation/admin-guide/reporting-issues.rst
+* Report a bug for beeta os : beeta.main@gmail.com.
 * Get the latest kernel: https://kernel.org
 * Build the kernel: See Documentation/admin-guide/quickly-build-trimmed-linux.rst
 * Join the community: https://lore.kernel.org/
@@ -15,4 +16,6 @@ Quick Start
 Major Change 
 ------------
 
-The modified version of linux kernel optimised specially for my project Beeta OS for better optimisations
+The modified version of linux kernel optimised specially for  Beeta OS for better optimisations including redesigned cpu scheduler etc .
+
+© Beeta Technologies, Inc 
